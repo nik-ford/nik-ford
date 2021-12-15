@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @nik-ford
-- 👀 I’m interested in app developement
-- 🌱 I’m currently learning Django C# & unity3d engine
+- 👋 Hi, I’m Nick
+- 👀 I’m interested in app and Game developement (VR and ML based apps and games)
+- 🌱 I’m currently learning Data Science, C# & unity3d engine
 - 💞️ I’m looking to collaborate on web and mobile developement
-- 📫 How to reach me ...
+- 📫 How to reach me: you can contact me on Facebook and or Linkedin or here...
 
-<!---
-nik-ford/nik-ford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
